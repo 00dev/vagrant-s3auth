@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'bundler/setup'
-require 'aws-sdk'
+require 'aws-sdk-s3'
 
 require_relative 'support'
 
